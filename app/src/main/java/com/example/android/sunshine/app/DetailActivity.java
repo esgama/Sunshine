@@ -86,6 +86,6 @@ public class DetailActivity extends ActionBarActivity {
             }
 
             return rootView;
-        }
+        } 
     }
 }
